@@ -1,15 +1,3 @@
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-CIS 120 Game Project README
-PennKey: davisdt
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-
-===================
-=: Core Concepts :=
-===================
-
-- List the three core concepts, the features they implement, and why each feature
-  is an appropriate use of the concept. Incorporate the feedback you got after
-  submitting your proposal.
 
   1. Collections
 
@@ -36,7 +24,7 @@ saps laserfuel and health. The pink ghost hurts the player to the
 brink of death but gives them a lot of fuel.
 
 =========================
-=: Your Implementation :=
+=: Overview :=
 =========================
 
 - Provide an overview of each of the classes in your code, and what their
@@ -58,23 +46,9 @@ brink of death but gives them a lot of fuel.
 The LaserFuel class and Laser class both extend the GameObj class to detect
 collisions. 
 
-- Were there any significant stumbling blocks while you were implementing your
-  game (related to your design, or otherwise)?
-
-
-- Evaluate your design. Is there a good separation of functionality? How well is
-  private state encapsulated? What would you refactor, if given the chance?
-
-Yes, there was pretty good separation of functionaliyu. The private state
-is completely encapsulated. If I would refactor, I might make the gameOver and
-playing boolean one collective thing rather than complementing each other.
-
 ========================
 =: External Resources :=
 ========================
 
-- Cite any external resources (libraries, images, tutorials, etc.) that you may
-  have used while implementing your game.
-
   I just used some sprite images for the ghosts found on Google Images.
-  Else I just used Javadocs to figure out rectangles.
+  Else I just used Javadocs to figure out rectangles. Will use noncopywrite images soon.
