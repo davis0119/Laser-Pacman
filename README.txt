@@ -27,9 +27,6 @@ brink of death but gives them a lot of fuel.
 =: Overview :=
 =========================
 
-- Provide an overview of each of the classes in your code, and what their
-  function is in the overall game.
-
 The Player class constructs a yellow square (Squareman) 
 that can be controlled with arrow keys. The player can get hurt by walls
 constructed by the wall class. The goal is to collect all the laserfuel,
