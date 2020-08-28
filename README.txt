@@ -1,11 +1,8 @@
 
-  1. Collections
+  1. Collections 
 
-Well, I started out with 2D arrays, but I changed most of my storage to collections.
-I found it easier to use ArrayLists to store walls and ghosts as I can easily 
-make use of the dynamic size of Collections and just iterate through it to 
-detect collisions. I would be able to remove them with ease if they are shot
-with lasers.
+Made use of the dynamic size of Collections to store ghosts and walls and 
+iterated through them to detect collisions. Able to remove them with ease if they are shot with lasers.
 
   2. JUnit testing
 
