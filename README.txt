@@ -1,17 +1,4 @@
-
-  1. Collections 
-
-Made use of the dynamic size of Collections to store ghosts and walls and 
-iterated through them to detect collisions. Able to remove them with ease if they are shot with lasers.
-
-  2. JUnit testing
-
-I test to make sure my game project is fully encapsulated. I also tested
-to make sure that my game over state was being properly caught. I was able
-to check if each ghost in the ghost collection was a different type of ghost as well.
-A lot of function testing and making sure GameCourt was flying as planned.
-
-  3. Inheritance/Subtyping
+Inheritance/Subtyping
   
 I had a main Ghost class with a couple of abstract methods. Each 
 type of ghost extended this class and handled lasers and attacks differently. 
