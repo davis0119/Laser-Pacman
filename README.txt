@@ -32,4 +32,4 @@ collisions.
 ========================
 
   I just used some sprite images for the ghosts found on Google Images.
-  Else I just used Javadocs to figure out rectangles. Will use noncopywrite images soon.
+  Else I just used Javadocs to figure out rectangles.
